@@ -1,0 +1,9 @@
+*~
+a.out
+*.x
+CMakeCache.txt
+CMakeLists.txt
+cmake_install.cmake
+*.csv
+Makefile
+CMakeFiles/
